@@ -1,0 +1,25 @@
+{
+  "title": "Koi no Recipe wa Amakute Nigai",
+  "description": "The Recipie for Love is Bittersweet",
+  "artist": "Konya Masaki",
+  "author": "Konya Masaki",
+  "cover": "https://i.imgur.com/yQOsx3x.png",
+  "chapters": {
+    "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/8DE8Kbv/"
+      },
+      "last_updated": "1616368746"
+    },
+    "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/Zx8Zl7U/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
